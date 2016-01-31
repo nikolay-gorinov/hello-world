@@ -1,4 +1,6 @@
 # hello-world
-# Just another repository
-# One simple edit.
-# New row.
+Just another repository
+
+One simple edit.
+
+New row.
